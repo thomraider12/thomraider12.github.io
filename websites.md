@@ -55,71 +55,65 @@
     - Site que reproduz qualquer ficheiro de música inserido. Clica [aqui](https://thomraider12.github.io/audioplayer).  
       ![](https://github.com/thomraider12/audioplayer/raw/main/screenshot.png)
 
-12. **Dicionário**
-
-    - Site que permite procurar qualquer palavra do dicionário português. Clica [aqui](https://thomraider12.github.io/dicionario).  
-      ![](https://github.com/thomraider12/dicionario/raw/main/example.gif)
-
-13. **Type Testing**
+12. **Type Testing**
 
     - Site que permite experimentar o teclado. Clica [aqui](https://thomraider12.github.io/typetesting).  
       ![](https://github.com/thomraider12/typetesting/raw/main/example.png)
 
-14. **Listas To-Do**
+13. **Listas To-Do**
 
     - Site para criar listas de tarefas. Clica [aqui](https://thomraider12.github.io/todolists).  
       ![](https://github.com/thomraider12/todolists/raw/main/screenshot.png)
 
-15. **Gradientes em CSS**
+14. **Gradientes em CSS**
 
     - Site para criar gradientes. Clica [aqui](https://thomraider12.github.io/cssgradients).  
       ![](https://github.com/thomraider12/cssgradients/raw/main/screenshot.jpg)
 
-16. **Jogo da Forca**
+15. **Jogo da Forca**
 
     - Joga o jogo da forca, agora online. Clica [aqui](https://thomraider12.github.io/hangman).  
       ![](https://github.com/thomraider12/hangman/raw/main/screenshot.gif)
 
-17. **Calendário**
+16. **Calendário**
 
     - Simples calendário, guarda os dados no browser. Clica [aqui](https://thomraider12.github.io/calendario).  
       ![](https://github.com/thomraider12/calendario/raw/main/screenshot.png)
 
-18. **BMI**
+17. **BMI**
 
     - Calculadora de BMI, de acordo com altura e peso. Clica [aqui](https://thomraider12.github.io/bmi).  
       ![](https://github.com/thomraider12/bmi/raw/main/screenshot.png)
 
-19. **UnImagens**
+18. **UnImagens**
 
     - Procura qualquer imagem disponível na API do Unsplash. Clica [aqui](https://thomraider12.github.io/unimagens).  
       ![](https://github.com/thomraider12/unimagens/raw/main/screenshot.png)
 
-20. **Pedra, Papel ou Tesoura?**
+19. **Pedra, Papel ou Tesoura?**
 
     - Jogo do _"Pedra, Papel ou Tesoura?"_. Clica [aqui](https://thomraider12.github.io/rpsgame).  
       ![](https://github.com/thomraider12/rpsgame/raw/main/screenshot.png)
 
-21. **Cronómetro**
+20. **Cronómetro**
 
     - Simples, com pequenas animações. Conta horas, minutos, segundos e milisegundos. Clica [aqui](https://thomraider12.github.io/stopwatch).  
       ![](https://github.com/thomraider12/stopwatch/raw/main/screenshot.png)
 
-22. **Gerar Passwords Seguras**
+21. **Gerar Passwords Seguras**
 
     - Cria palavras-passe seguras. Clica [aqui](https://thomraider12.github.io/generatepasswd).  
       ![](https://github.com/thomraider12/generatepasswd/raw/main/screenshot.png)
 
-23. **Converter**
+22. **Converter**
 
     - Converte todo o tipo de medidas. Clica [aqui](https://thomraider12.github.io/converter).  
       ![](https://github.com/thomraider12/converter/raw/main/screenshot.png)
 
-24. **Gerar Faturas**
+23. **Gerar Faturas**
     - Cria faturas automaticamente, guardando o nome, email e imagem do negócio. Clica [aqui](https://thomraider12.github.io/faturas).  
       ![](https://github.com/thomraider12/faturas/raw/main/screenshot.png)
-      
-25. **Jogo da Memória**
+24. **Jogo da Memória**
 
-   - Um jogo de memória clássico onde os utilizadores precisam de encontrar pares de cartas. Clica [aqui](https://thomraider12.github.io/jogomemoria).  
-     ![](https://raw.githubusercontent.com/thomraider12/jogomemoria/refs/heads/main/screenshot.png)
+    - Um jogo de memória clássico onde os utilizadores precisam de encontrar pares de cartas. Clica [aqui](https://thomraider12.github.io/jogomemoria).  
+      ![](https://raw.githubusercontent.com/thomraider12/jogomemoria/refs/heads/main/screenshot.png)
